@@ -3,7 +3,18 @@ html, body {
     height: 100%;
 }
 
+.test{
+    
+}
 header {
     background-image: url(/static/hero-bg.jpg);
 }
 
+.bg-primary {
+  background-color: #e3e3e3 !important;
+  }
+  
+  .bg-secondary {
+    background-color: #4b4b4b !important;
+  }
+  
